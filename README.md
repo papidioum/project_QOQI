@@ -1,4 +1,4 @@
-# project_QOQI
+# [Done] project_QOQI
 Project for Hackaton QHack 2023
 # Estimating Ground State Energy of Molecules using VQE with Qiskit Estimator Primitive in Qiskit Runtime
 
@@ -47,4 +47,5 @@ We show below the comparison of our results.
 
 ## Future directions
 
-
+Using Lattice configuration
+Implementation in real hardware using Circuit knitting
